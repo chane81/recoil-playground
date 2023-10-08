@@ -36,5 +36,4 @@ COPY --from=builder /app/.next/static ./.next/static
 EXPOSE 8080
 
 
-
 CMD ["node", "server.js"]
