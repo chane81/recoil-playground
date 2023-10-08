@@ -4,9 +4,9 @@
 
 ## Stack
 
-- next.js 13
-- recoil
-- bun
+- next.js v13
+- recoil v0.7
+- bun v1.0
 
 ## Execute
 
