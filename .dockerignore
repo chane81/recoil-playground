@@ -1,11 +1,5 @@
 .env
-Dockerfile
-.dockerignore
+.next
+.git
 node_modules
 npm-debug.log
-README.md
-# .next
-.git
-README.create-t3-gg.md
-charts
-seed.cjs
